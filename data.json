@@ -1,0 +1,27 @@
+{
+  "brandon": {
+    "imgs": {
+      "dance": "images/dance.jpg",
+      "road": "images/road.jpg",
+      "spice": "images/spice.jpg"
+    },
+    "text": {
+      "danceText": "Hello, my name is Brandon Merrick and I am a junior in Computer Science minoring in Data science. This image is a fun image from me taken during my showcase for dance. My dance team is called Motion Sickness and I am currently on my third year in the group.",
+      "roadText": "One of my hobbies is taking pictures. I really like the way that our campus here on Iowa State looks and I often pause to take a picture of something that catches my eye. This is a picture of the sunset I took recently outside my dorm.",
+      "spiceText": "Over this last summer I was interning in the Quality Department of B&G Foods. It wasn't the most technical internship, but my boss seemed happy with my work and I still learned a lot about both office work and manufacturing. Since it was a spice plant they would open up the Company Store once a month and allow us to buy as many spices as we could fit in a huge bag for only 5 bucks. That was my favorite part funny enough even though I don't use that much spice."
+    }
+  },
+  
+  "minwoo": {
+    "imgs": {
+      "me": "images/minwoo1.jpg",
+      "military": "images/minwoo2.jpg",
+      "travel": "images/minwoo3.jpg"
+    },
+    "text": {
+      "meText": "I was born and raised in South Korea, where I lived my entire life until now. Since I was young, I’ve always dreamed of exploring the wider world and studying abroad. That dream led me to where I am today—currently pursuing my studies at Iowa State University.",
+      "militaryText": "Although I had always dreamed of studying abroad in the United States, that dream was put on hold when I turned 20 due to my mandatory military service in South Korea. I paused my education for two years to fulfill this duty, and at the time, it felt like I was losing valuable time. However, during those two years, I had the chance to reflect on myself and grow in ways I hadn’t expected. The military service provided me with an opportunity for personal development, and despite the initial frustrations, it ultimately made me more mature and better prepared for the challenges ahead.",
+      "travelText": "After completing my military service, my perspective on life shifted. I became more mature and developed new goals during my time in the military. These goals helped me focus more on life and taught me the value of perseverance, no matter what challenges I faced. The experience gave me the determination to approach everything I do with patience and resilience, skills that have proven invaluable in both my personal and academic pursuits."
+    }
+  }
+}

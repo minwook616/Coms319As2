@@ -1,0 +1,35 @@
+
+body {
+  background-color: #f8f9fa;
+  background-image: linear-gradient(90deg, skyblue, #f8f9fa 7%, #f8f9fa 93%, skyblue);
+}
+
+nav {
+  margin-bottom: 20px;
+  box-shadow: 3px 3px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+p {
+  padding-top: 10px;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: #fbfaf9;
+  padding: 10px 0;
+  background-image: linear-gradient(90deg, skyblue, #f8f9fa 7%, #f8f9fa 93%, skyblue);
+}
+
+.resized-img {
+  width: auto;
+  height: auto;
+  max-height: 500px;
+  max-width: 100%;
+}
